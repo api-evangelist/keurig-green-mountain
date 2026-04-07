@@ -1,7 +1,12 @@
 aid: keurig-green-mountain
-url: https://raw.githubusercontent.com/api-evangelist/keurig-green-mountain/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/keurig-green-mountain/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.keurig-green-mountain.com
+description: >-
+  Keurig Green Mountain was a leader in specialty coffee and coffee makers, producing
+  the Keurig single-serve brewing system and partnering with leading coffee brands
+  before merging with Dr Pepper Snapple.
