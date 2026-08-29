@@ -7,6 +7,17 @@ description: >-
   Dr Pepper, a Fortune 500 beverage company. This repository preserves the historical
   API and developer footprint of Keurig Green Mountain prior to that merger.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
