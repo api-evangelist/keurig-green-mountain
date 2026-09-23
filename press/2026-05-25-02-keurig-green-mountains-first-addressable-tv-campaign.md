@@ -1,7 +1,9 @@
 ---
 title: Keurig Green Mountain's First Addressable TV Campaign ...
 url: https://www.mediapost.com/publications/article/272721/keurig-green-mountains-first-addressable-tv-campa.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Keurig Green Mountain" press release artificial intelligence'
 position: 2
 source: serpapi-google

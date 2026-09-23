@@ -1,7 +1,9 @@
 ---
 title: Keurig Dr Pepper Launches New Corporate Responsibility ...
 url: https://www.prnewswire.com/news-releases/keurig-dr-pepper-launches-new-corporate-responsibility-strategy-and-commitments-300860122.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Keurig Green Mountain" press release artificial intelligence'
 position: 3
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: 'KDP Q1 Earnings: CEO Tim Cofer''s Thoughts | Keurig Dr ...'
 url: https://www.linkedin.com/posts/keurig-dr-pepper-inc_today-kdp-reported-its-q1-earnings-our-activity-7453066683432271872-9ATS
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Keurig Green Mountain" press release artificial intelligence'
 position: 4
 source: serpapi-google

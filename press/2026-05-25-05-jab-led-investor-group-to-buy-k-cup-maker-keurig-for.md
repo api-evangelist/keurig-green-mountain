@@ -1,7 +1,9 @@
 ---
 title: JAB-led investor group to buy K-Cup maker Keurig for ...
 url: https://www.reuters.com/article/world/jab-led-investor-group-to-buy-k-cup-maker-keurig-for-139-billion-idUSKBN0TQ2DS/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Keurig Green Mountain" press release artificial intelligence'
 position: 5
 source: serpapi-google
