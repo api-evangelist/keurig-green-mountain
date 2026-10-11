@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "keurig-green-mountain",
+    "captured_at": "2026-10-11T190849",
+    "source_url": "https://www.keurig.com",
+    "source_type": "Website",
+    "file": "keurig-green-mountain-2026-10-11T190849.png",
+    "bytes": 24958,
+    "capture": "playwright-local"
+  }
+]
