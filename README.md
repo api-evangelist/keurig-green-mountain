@@ -1,4 +1,4 @@
-# Keurig Green Mountain (keurig-green-mountain)
+# Keurig Green Mountain
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,35 +66,77 @@
 
 Keurig Green Mountain was a leader in specialty coffee and coffee makers, producing the Keurig single-serve brewing system and partnering with leading coffee brands. In 2018 Keurig Green Mountain merged with Dr Pepper Snapple Group to form Keurig Dr Pepper, a Fortune 500 beverage company. This repository preserves the historical API and developer footprint of Keurig Green Mountain prior to that merger.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/keurig-green-mountain/refs/heads/main/apis.yml)
+**Areas:** Beverages · Coffee · Consumer Goods · Historical · Single-Serve · Food and Beverage
 
-## Scope
+## Keurig Green Mountain on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Keurig Green Mountain is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/keurig-green-mountain/](https://apis.io/providers/keurig-green-mountain/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Beverages, Coffee, Consumer Goods, Historical, Single-Serve
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Keurig Green Mountain Domain Security](https://apis.io/security/keurig-green-mountain/keurig-green-mountain-domain-security/)
 
-No public APIs are documented for Keurig Green Mountain. The company has been succeeded by Keurig Dr Pepper following the 2018 merger; current API and developer activity, where it exists, would surface under the [keurig-dr-pepper](https://github.com/api-evangelist/keurig-dr-pepper) repository.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.keurig.com) - Keurig Brand Website
-- [Website](https://www.keurigdrpepper.com) - Keurig Dr Pepper (Successor Company)
-- [About](https://en.wikipedia.org/wiki/Keurig_Green_Mountain) - Keurig Green Mountain on Wikipedia
+- [Website](https://www.keurig.com)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/keurig-green-mountain/](https://apis.io/providers/keurig-green-mountain/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Keurig Green Mountain: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/keurig-green-mountain/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
